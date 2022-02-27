@@ -1,0 +1,357 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Friers last fare-well, or, Saint Francis must pack for France. Shewing, how the mass-monging fathers were by order of Parliament, brought from Somerset-House in the Strand, by many officers, watch-men, and others: and by them put into safe custody, till the next faire winde shall blow for Paris. On Saturday the 26. of February. An. Dom. 1642. Being a dolefull dialogue between Pere Robert, and Pere Cyprian, two lamenting fathers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84926</idno>
+            <idno type="STC">Wing F2210</idno>
+            <idno type="STC">Thomason E136_27</idno>
+            <idno type="STC">ESTC R372</idno>
+            <idno type="EEBO-CITATION">99872472</idno>
+            <idno type="PROQUEST">99872472</idno>
+            <idno type="VID">156480</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156480)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E136[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Friers last fare-well, or, Saint Francis must pack for France. Shewing, how the mass-monging fathers were by order of Parliament, brought from Somerset-House in the Strand, by many officers, watch-men, and others: and by them put into safe custody, till the next faire winde shall blow for Paris. On Saturday the 26. of February. An. Dom. 1642. Being a dolefull dialogue between Pere Robert, and Pere Cyprian, two lamenting fathers.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Hammond,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156480:1" rendition="simple:additions"/>
+            <p>THE Friers Laſt Fare-well, <hi>OR,</hi> Saint Francis muſt Pack for France.</p>
+            <p>
+               <hi>SHEWING,</hi> How the Maſſ-monging Fathers were by Order of Parliament, brought from <hi>Somerſet-Houſe</hi> in the Strand, by many Officers, Watch-men, and others:</p>
+            <p>And by them put into ſafe cuſtody, till the next faire winde ſhall blow for <hi>Paris.</hi>
+            </p>
+            <p>
+               <hi>On Saturday the</hi> 26. <hi>of February. An. Dom.</hi> 1642.</p>
+            <p>Being a dolefull Dialogue between <hi>Pere Robert,</hi> and <hi>Pere Cyprian,</hi> two Lamenting Fathers.</p>
+            <p>God ſend them good Shipping,</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Iohn Hammond.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:156480:2"/>
+            <pb facs="tcp:156480:2"/>
+            <head>The Friars laſt Farwell, <hi>OR, St.</hi> Francis is packing for <hi>France.</hi>
+            </head>
+            <head>In a dolefull, Dialogue between Pere <hi>Robert,</hi> and Pere <hi>Cyprian,</hi> two Diſtreſſed Fathers.</head>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>HOw now Frere <hi>Cyprian,</hi> how liked you your lod<g ref="char:EOLhyphen"/>g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng to night?</p>
+            </sp>
+            <sp>
+               <speaker>Cyp.</speaker>
+               <p>By Saint <hi>Francis,</hi> as men that cannot help it: Well I perceive they will make a riddance of us all by degrees; they'le leave neither head nor tayle: Now they have done with the Miter, they have a fling at us; a man may cleerely ſee, that here will bee no longer pla<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e for us. Wee muſt even entreate them to give us our Trinkets and a<g ref="char:EOLhyphen"/>way.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Away ſaiſt thou; Yea by my Cowle, and glad wee may ſcape ſo, by the hope I have in our B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſed <hi>Lady,</hi> when they firſt came in upon us, in that unacquainted faſhion, and no way pleaſing to <hi>Franc<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſcans,</hi> bring<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng Conſtables, Offi<g ref="char:EOLhyphen"/>cers and Watch-men with them, as though they had to doe with Theeves, not with Fathers; with ſuch ſad lookes, and brow-bent words, <hi>I</hi> doubted what would become of mee, fearing leaſt they would have tooke my ſanctified Coard from off my middle, and have hang'd me in't.</p>
+            </sp>
+            <sp>
+               <speaker>Cyp.</speaker>
+               <p>What then thou ſhouldeſt have gone to heaven in thy Order: had they done ſo, or as bad, or thou hadſt had thy end by a Rope, ſo thy mends in thy hand: For this Parlia<g ref="char:EOLhyphen"/>ment goes through-ſtitch with it; they have removed other blocks than wee, they beare all downe before them<g ref="char:punc">▪</g> upon my conſcience I ſpeake it, If either his Holineſse, yea, or very
+<pb facs="tcp:156480:3"/> Saint <hi>Francis</hi> himſelfe had been there among us, they would ſcarce have tooke them along for company.</p>
+            </sp>
+            <sp>
+               <speaker>Cyp.</speaker>
+               <p>I beleeve it as ſurely as I doe Purgatorie, or ſalvati<g ref="char:EOLhyphen"/>on by obſerving Saint <hi>Francis</hi> his iniunctions; wee are all out of eſteeme here, both head and tayle: wee have ſeen our beſt dayes, I feare me in England, which now gives us up; and is growne wearie of us, as is all the world beſides, though I truſt <hi>France</hi> will bid us welcome, as reaſon it hath, for ſure <hi>I</hi> am, that I for my part, by the VVorſhip <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owe un<g ref="char:EOLhyphen"/>to Saint <hi>Francis,</hi> have not been unmindfull of our Covent there; and have conveied over as much Engliſh gold, as any other here imployd for that purpoſe, and can give an honeſt account of my Talent, as you know Frere.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>
+                  <hi>I</hi> t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſt the ſame Frere.</p>
+            </sp>
+            <sp>
+               <speaker>Cyp.</speaker>
+               <p>But are you of an opinion that wee may bid our laſt <hi>Ad<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eu</hi> to <hi>Somerſ<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>-houſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> and never plant Julips there a<g ref="char:EOLhyphen"/>gaine, ſhrift Lad<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Chappell, take the paines to goe home to their husbands, nor young Gentlewomen, looke o<g ref="char:EOLhyphen"/>ver the wall into the Thames, and throw them our bleſſing, that may ſafely carry them over be it that they live on the o<g ref="char:EOLhyphen"/>ther ſide, and winde againſt Tide, make the water boyſterous.</p>
+            </sp>
+            <sp>
+               <speaker>Cyp.</speaker>
+               <p>Lets thinke no more of that then of forſaking our holy order Frere <hi>Robert:</hi> alas, the chiefeſt of our freinds are on the other ſide the Poole; hardly could we keep houſe, when they were all at home, we were put to it then: our reſort hath leſ<g ref="char:EOLhyphen"/>ſened, and conſequently our offerings, ever ſin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the ſitting of this great Aſſembly at <hi>VVeſtminſter,</hi> wee have had ſuch watchfu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l eyes upon us; that it was impoſſible but that our doings muſt needs ſlack, though <hi>I</hi> never thought, that wee ſhould ever be brought to that p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſse, that <hi>Somerſet-Houſe</hi> ſhould have been to hot to hold us.</p>
+            </sp>
+            <sp>
+               <speaker>Rob</speaker>
+               <p>Frere <hi>Cyprian, I</hi> liked not that great fall of part of the wall on the back-ſide of our Manſion, Chriſtmas laſt was two yeere, <hi>I</hi> liked it not <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, for it ever ſince ran in my m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nde, and <hi>I</hi> could by no me<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nes ridde my ſelfe of that conceit, that i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> did pre<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>end ſome ruine, r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt or ſeparation of the fraterni<g ref="char:EOLhyphen"/>t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, and rather then the land would longer be troubled with us, if the gates were too little, they would give us an <hi>exit,</hi> by breaking downe a maine part of the wall.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:156480:3" rendition="simple:additions"/>
+               <speaker>Cyp.</speaker>
+               <p>
+                  <hi>I</hi> preſaged as much Brother by the comming of the <hi>Scots</hi> into <hi>England:</hi> S. <hi>Francis</hi> you know never affected that Nation; as who are the profeſsed enemies of idleneſse and ignorance, both which are the moſt conſiderable ingredients in the compoſition of our regularitie.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>My noſe dropt juſt three drops of blood: the very firſt day of the ſitting of this Parliament: and paſsing from S. <hi>Iames</hi> to <hi>Somerſet-houſe,</hi> a Hare croſsed me thrice.</p>
+            </sp>
+            <sp>
+               <speaker>Cypr.</speaker>
+               <p>The baniſhing of all the Catholiks from <hi>London,</hi> and within 15. miles of the Parliament: was no ſigne of our long ſtay.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Nor the fall of the Hierarchiein Temporalls, any good token of our growth in any Spiritualls.</p>
+            </sp>
+            <sp>
+               <speaker>Cyp.</speaker>
+               <p>When <hi>Con.</hi> and <hi>Ruſſetta</hi> were diſmiſsed, men <hi>I</hi> think that would have found and wrought as ſtrong meanes to have kept their footing, as could be procured, when theſe once <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oo<g ref="char:EOLhyphen"/>ked b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew, and muſt be content to take water: <hi>I</hi> durſt never after thinke of laying my bones amongſt the Sanctified Ju<g ref="char:EOLhyphen"/>lips.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>But who would have thought that they would have ſtoopt ſo low as us poore men, clad in medley Linſey VVol<g ref="char:EOLhyphen"/>ſey, with Tunnell on our heads, and though not ſtrung, yet girt in hemp, having perhaps our woodden Knicknacks, our Croſses and bunch of Beades, with ſuch pretty things redicu<g ref="char:EOLhyphen"/>lous about us, but nothing that they can diſcerne ſuſpitious.</p>
+            </sp>
+            <sp>
+               <speaker>Cypr.</speaker>
+               <p>Ho frere <hi>Rob.</hi> Ho, ho: They tooke us not for Saints for all that; he that hath an ill name is halfe hanged: they have heard too much of our prankes elſewhere, and in par<g ref="char:EOLhyphen"/>ticular, what exployts ſome of our livery have lately acted in France, and by name how Father <hi>Ioſeph</hi> hath lately behaved himſelfe there, whoſe Woolviſh attempts hath brought them cleane out of conceit with our Sheepes cloathing: they are contrived into ſo bad a beliefe of us, that they ſticke not to ſay, that our wills are as good, and conditions as bad, if we had an occaſion as ſeaſonable. Nay, a Gentleman told mee, within theſe few dayes, walking in the Garden, that hee ſaw the Hornes through my Cowle, and that hee was ſure, could he but have the patience to heare Maſſe, hee ſhould heare the Fiend grumble, if not reare.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:156480:4"/>
+               <speaker>Rob.</speaker>
+               <p>I confeſſe Frere <hi>Cyprian,</hi> it is a difficult thing to charme men out of an opinion once tooke up; ſo that is be<g ref="char:EOLhyphen"/>come a Proverb, The Divell and the Frier will be honeſt to<g ref="char:EOLhyphen"/>gether.</p>
+            </sp>
+            <sp>
+               <speaker>Cyp.</speaker>
+               <p>Was it not pretty what one of the attendants motio<g ref="char:EOLhyphen"/>ned unto one of the Gentlemen of the Houſe, that came with the unwelcome <hi>Habeas Corpus</hi> for out non-reſidencie, and unto the two Conſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es that came with him?</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Pretty, ſayſt thou brother? Pretty indeed: hee de<g ref="char:EOLhyphen"/>ſerves to be curſed with Bell, Booke and Candle who ever he was; and queſtionleſſe our holy Patron and Saint, never be<g ref="char:EOLhyphen"/>ſteaded us more, then by his interceſſion to the Virgin-Mo<g ref="char:EOLhyphen"/>ther, to put back his Leviticall advice from taking effect and execution from the Gentlemen and the Conſtable: for ſure<g ref="char:EOLhyphen"/>ly, had we not been permitted to have laid downe our ha<g ref="char:EOLhyphen"/>bits, and to have come forth ſomething in faſhion, like other men, we ſhould have been the Owles of wonderment unto all the birds between Somerſet-houſe and Weſtminſter.</p>
+            </sp>
+            <sp>
+               <speaker>Cyp.</speaker>
+               <p>The merry whorſon would have had us come out juſt as the Parliament men and Conſtable tooke us, (O ſweet St. <hi>Francis</hi> authour of our ſalvat on) wee ſhou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d have had more hollowing, hooping and ſhooting at our heeles, then ever was made after Beares, Cutpurſes, or Clarken-well whoores.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Nay worſe, another wiſhed as we<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l to us as he, would have had us tied a-row in our Copes, like Gally-ſlaves; and then we ſhould have carried all the Strand a breadth, and what Coach or Caroſſe belonging to what Noble-man ſoever, had chanced to have come by, he muſt have had the patience till one of our poore Fathers had been unlinked, or elſe borne Cope, Fathers, and all before him.</p>
+            </sp>
+            <sp>
+               <speaker>Cyp.</speaker>
+               <p>What ever thoſe conceited Knaves were, I believe there will be never a Frier in the world the more for them.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>If none bore more reſpect unto Friers then they, for my part I would rather turn Divel then Frier: and as I am, the firſt thing I would doe, ſhould be to caſt my frock into the nettles, and lay hold on Spade or Mattocke, whereto I muſt confeſſe, I have a right able body, had I as much minde to labour as a<g ref="char:EOLhyphen"/>bility.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:156480:4"/>
+               <speaker>Cyp.</speaker>
+               <p>A third merry companion was bold to tell me, that my holy Cowle was made like a Vintners tunnell.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>That fellow wiſhed better to the Vintner then any of us, I warrant him.</p>
+            </sp>
+            <sp>
+               <speaker>Cyp.</speaker>
+               <p>A fourth tole me, that I had ſtuffe enough about my middle to have tied up all the priſoners that were to bee exe<g ref="char:EOLhyphen"/>cuted this Seſſions, and put my ſelfe in the number.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Mr. Conſtable requeſted my habit, or ſome part of it, to make a ſtrainer for his wives graines.</p>
+            </sp>
+            <sp>
+               <speaker>Cyp.</speaker>
+               <p>Had the Conſtables wiſe been there, and knowne the abilities of thy pendents, thou mightſt have received more favour of her then of her husband.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Thats not unlikely: for had we not ever been more beloved of women then their husbands, we had never beene of that ſtanding in the world we are; notwithſtanding theſe hard times, I know, thankes to good. <hi>St. Francis,</hi> thoſe de<g ref="char:EOLhyphen"/>vout Catholicke women, and ſome no ſmall ones neither, who will keep it not onely from their husbands, but even from their owne ſelves and children, to give it unto us, and thinke themſelves happy that they have it to the ſame end.</p>
+            </sp>
+            <sp>
+               <speaker>Cyp.</speaker>
+               <p>Whatſoever their husbands count us, ſeeing it c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>not be remedied why let it paſs: but could we get a repreeve to ſtay in England but one ſeaven yeares, to ſee the toward<g ref="char:EOLhyphen"/>nes of the brats, <hi>I</hi> am aſsured that wee ſhould finde the chil<g ref="char:EOLhyphen"/>dren more affectionate to us for their fathers ſakes: for <hi>I</hi> am confident, ever ſince wee came to be inwardly acqua<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nted with their mothers, wee have done our beſt to breed them.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>It is an eſpeciall gift given to us by <hi>Sa<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt Francis,</hi> that whitherſoever wee come, we p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>opagate to the Order.</p>
+            </sp>
+            <sp>
+               <speaker>Cyp.</speaker>
+               <p>But muſt we for France without deni<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll?</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>But what if our entertainment bee not ſo good there as wee expect? what then? For not to flatter our ſelves, even Catholickes themſelves are fallen three farthings in a peny of their eſteeme of us, howſoever ſome of us have handled the buſines.</p>
+            </sp>
+            <sp>
+               <speaker>Cyp.</speaker>
+               <p>What if our entertainment ſhall not bee to our mindes? wee muſt bring our mindes to our entertainment; but if wee ſhall finde Charity and Devotion quite paſt re<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<g ref="char:EOLhyphen"/>very,
+<pb facs="tcp:156480:5"/> and that in no ſort wee are likely to live upon it like ourſelves; my counſell is, to alter our copie. What? if <hi>I</hi> am bound to ſerve <hi>St. Francis, St. Francis</hi> is bound to keep me. No peny no Pater noſter. Hearke, one knockes, or opens doore: pray God we are not ſent for to be doom'd.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>
+                  <hi>I</hi> feare me it is even ſo: for ever after apprehenſion followes ſentence.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
